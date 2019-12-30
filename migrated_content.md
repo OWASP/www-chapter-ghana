@@ -127,7 +127,7 @@ Register to attend this and our future events via
 Call For Speakers is open - if you would like to present a 15-45 minute
 talk on Application / Cyber Security at future OWASP Ghana Chapter
 events - please review and agree with the [OWASP Speaker
-Agreement](Speaker_Agreement "wikilink") and submit your
+Agreement](Speaker_Agreement ) and submit your
 talk/presentation via [Google
 Forms](https://docs.google.com/forms/d/e/1FAIpQLSep6HqWEJoN4l_vbytrAEChBGOyge-A61nd_0JvGsl6r5HpZA/viewform)
 
@@ -160,18 +160,18 @@ Accra.
 #### TALKS:
 
   - **WAF Filter 404 Not Found - Blay Safian** ([Slides
-    PDF](Media:_Waf-filter-404-not-found.pdf "wikilink"))
+    PDF](Media:_Waf-filter-404-not-found.pdf ))
 
 <!-- end list -->
 
   - **Lighting Talk on Broken Authentication: What it means, and what
     you can do - Hassan Abudu** ([Slides
-    PDF](Media:_OWASP_broken_authentication.pdf "wikilink"))
+    PDF](/www-pdf-archive/_OWASP_broken_authentication.pdf ))
 
 <!-- end list -->
 
   - **Wireless Security and its Discontents - Boyan Lazarevski**
-    ([Slides PDF](Media:_OWASP-Sep-2019-BL_\(v.2\).pdf "wikilink"))
+    ([Slides PDF](/www-pdf-archive/_OWASP-Sep-2019-BL_\(v.2\).pdf ))
 
 #### SPEAKERS:
 
@@ -224,7 +224,7 @@ Legon, Accra.
 
   - **The State of Phishing Attack Vector - Isaac Kweku Acheampong**
     ([Slides
-    PDF](Media:_Phishing_Presentation\(OWASP_Ghana\).pdf "wikilink"))
+    PDF](/www-pdf-archive/_Phishing_Presentation\(OWASP_Ghana\).pdf ))
 
 <!-- end list -->
 
@@ -233,18 +233,18 @@ Legon, Accra.
 <!-- end list -->
 
   - **Smart Grid IoT Security - Kwaku Sarpong Manu** ([Slides
-    PDF](Media:_Smart_Grid_IoT_Security_\(OWASP_Ghana\).pdf "wikilink"))
+    PDF](/www-pdf-archive/_Smart_Grid_IoT_Security_\(OWASP_Ghana\).pdf ))
 
 <!-- end list -->
 
   - **Achilles and the Bee - Fabiola Amedo** ([Slides
-    PDF](Media:_Achilles_and_the_Bee_Presentation\(OWASP_Ghana\).pdf "wikilink"))
+    PDF](/www-pdf-archive/_Achilles_and_the_Bee_Presentation\(OWASP_Ghana\).pdf ))
 
 <!-- end list -->
 
   - **Anatomy of a DNS Cache Poisoning Attack - Boyan Lazarevski**
     ([Slides
-    PDF](Media:_DNS_Cache_Poisoning\(OWASP_GHANA\).pdf "wikilink"))
+    PDF](/www-pdf-archive/_DNS_Cache_Poisoning\(OWASP_GHANA\).pdf ))
 
 #### SPEAKERS:
 
@@ -284,7 +284,7 @@ Legon, Accra.
 #### TALKS:
 
   - **OWASP Introduction, Welcome and News - Ash Dastmalchi** ([Slides
-    PDF](Media:_Intro_Presenation_-_Chapter_meeting_March_2019.pdf "wikilink"))
+    PDF](/www-pdf-archive/_Intro_Presenation_-_Chapter_meeting_March_2019.pdf ))
 
 <!-- end list -->
 
@@ -296,7 +296,7 @@ Legon, Accra.
 
   - **Your web server has been hacked now what? by Archzilon
     Eshun-Davies** ([Slides
-    PDF](Media:_OWASP_Your_Web_Server_Has_been_hacked_now_what.pdf "wikilink"))
+    PDF](/www-pdf-archive/_OWASP_Your_Web_Server_Has_been_hacked_now_what.pdf ))
 
 <!-- end list -->
 
@@ -307,7 +307,7 @@ Legon, Accra.
 <!-- end list -->
 
   - **Cross-Site Scripting Attacks (XSS) by Adam Nurudini** ([Slides
-    PDF](Media:_OWASP_XSS_Presentation_-_By_Adam_Nurudini.pdf "wikilink"))
+    PDF](/www-pdf-archive/_OWASP_XSS_Presentation_-_By_Adam_Nurudini.pdf ))
 
 <!-- end list -->
 
@@ -324,7 +324,7 @@ Legon, Accra.
 
   -
     A playback of recording from [OWASP BeNeLux-Days
-    2018](OWASP_BeNeLux-Days_2018 "wikilink") giving a complete
+    2018](OWASP_BeNeLux-Days_2018 ) giving a complete
     introduction to the [OWASP Juice
     Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project)
     including a live demonstration of the application and how to hack
@@ -391,7 +391,7 @@ Bypass)
 <!-- end list -->
 
   - ''' "Defensive Coding" - Archzilon Eshun-Davies ''' ([Slides
-    PDF](Media:_Defensive_Coding_Presentation_OWASP_Ghana.pdf "wikilink"))
+    PDF](Media:_Defensive_Coding_Presentation_OWASP_Ghana.pdf ))
 
 <!-- end list -->
 
@@ -402,7 +402,7 @@ Bypass)
 <!-- end list -->
 
   - *' "Open-Source Intelligence (OSINT)" - Adam Nurudini*' ([Slides
-    PDF](Media:_OWASP_OSINT_Presentation.pdf "wikilink"))
+    PDF](/www-pdf-archive/_OWASP_OSINT_Presentation.pdf ))
 
 <!-- end list -->
 
@@ -413,7 +413,7 @@ Bypass)
 <!-- end list -->
 
   - *' "Wordpress Security" - Nii Ankrah*' ([Slides
-    PDF](Media:_Niiankrah_owasp_nov_18.pdf "wikilink"))
+    PDF](/www-pdf-archive/_Niiankrah_owasp_nov_18.pdf ))
 
 <!-- end list -->
 
@@ -484,7 +484,7 @@ of Communications)
 <!-- end list -->
 
   - *' "Injection Attack" - Hassan Abudu*' ([Slides
-    PDF](Media:_OWASP_injection_attacks.pdf "wikilink"))
+    PDF](Media:_OWASP_injection_attacks.pdf ))
 
 <!-- end list -->
 
@@ -495,11 +495,11 @@ of Communications)
 
   - *' "Bypassing Security Restrictions , The case of CVE-2018-5955" -
     Adam Nurudini*' ([Slides
-    PDF](Media:_OWASP_Gitstack_Presentation.pdf "wikilink"))
+    PDF](/www-pdf-archive/_OWASP_Gitstack_Presentation.pdf ))
   - *' "Exploiting Server Side Template Injection with TPLMAP" - Divine
-    Tsa*' ([Slides PDF](Media:_Owasp_SSTI_final.pdf "wikilink"))
+    Tsa*' ([Slides PDF](/www-pdf-archive/_Owasp_SSTI_final.pdf ))
   - *' "Insecure Direct Object Reference IDOR(Broken Access Control)" -
-    Eric Biako*' ([Slides PDF](Media:_IDOR.pdf "wikilink"))
+    Eric Biako*' ([Slides PDF](/www-pdf-archive/_IDOR.pdf ))
 
 #### SPEAKERS:
 
@@ -536,5 +536,5 @@ of Communications)
     security officer at E-connecta as well as moderator at Legal
     hackmen.
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Africa](Category:Africa "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
+[Category:Africa](Category:Africa )
