@@ -2,53 +2,175 @@
 
 layout: col-sidebar
 title: OWASP Ghana
-tags: example-tag
-level: 0
-
-region: Africa
-
-auto-migrated: 1
+tags: ghana
 
 ---
 
+## OWASP Ghana
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-{front matter for this file}
-
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
-
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+Welcome to the Ghana chapter homepage. The chapter leaders are <a href="mailto://ash.dastmalchi@owasp.org">Ash Dastmalchi</a> and <a href="mailto://hassan.abudu@owasp.org">Hassan Abudu</a>. Follow chapter news on Twitter at [http://twitter.com/OWASPGhana](http://twitter.com/OWASPGhana)
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+OWASP Foundation ([Overview
+Slides](https://docs.google.com/a/owasp.org/presentation/d/10wi1EWFCPZwCpkB6qZaBNN8mR2XfQs8sLxcj9SCsP6c/edit?usp=sharing))
+is a professional association of [ global
+members](https://www.owasp.org/index.php/Membership) and is open to anyone interested in
+learning more about software security. Local chapters are run
+independently and guided by the
+[Chapter\_Leader\_Handbook](https://www.owasp.org/index.php/Chapter_Leader_Handbook). As a [
+501(c)(3)](https://www.owasp.org/index.php/About_OWASP) non-profit professional association
+your support and sponsorship of any meeting venue and/or refreshments is
+tax-deductible. Financial contributions should only be made online using
+the authorized online chapter donation button. To be a <b>SPEAKER</b> at
+ANY OWASP Chapter in the world simply review the [ speaker
+agreement](https://www.owasp.org/index.php/Speaker_Agreement) and then contact the local
+chapter leader with details of what OWASP PROJECT, independent research
+or related software security topic you would like to present on.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+## Sponsorship/Membership
 
-```
-{info.md}
+<a href="https://www.owasp.org/index.php/Local_Chapter_Supporter" target="_blank"><img src="assets/images/Btn_donate_SM.gif" alt=""/></a> to this
+chapter or become a local chapter supporter. Or consider the value of [
+Individual, Corporate, or Academic Supporter
+membership](https://www.owasp.org/index.php/Membership). Ready to become a member?
+<a href="https://www.owasp.org/index.php/Membership" target="_blank"><img src="assets/images/75px-Join_Now_BlueIcon.jpeg" alt=""/></a>
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
 
-{leaders.md}
+### Meeting Sponsors
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
+The following is the list of organisations who have generously provided
+us with space for OWASP Ghana chapter meetings:  
 
--->
+<table cellpadding="10" cellspacing="0" border="0">
+
+<tr>
+
+<td>
+
+<a href="http://ghanatechlab.com/" target="_blank"><img src="assets/images/Ghana_Tech_Labs.jpg" alt="Ghana Tech Lab"/></a>
+
+</td>
+
+<td>
+
+<a href="https://www.ug.edu.gh/cs/" target="_blank"><img src="assets/images/[todo]" alt="University_of_Ghana.png"/></a>
+
+</td>
+
+<td>
+
+<a href="http://nweb.gimpa.edu.gh/schools/school-of-technology/" target="_blank"><img src="assets/images/GIMPA_logo.jpg" alt=""/></a>
+
+</td>
+
+<td>
+
+<a href="https://linuxaccra.org/" target="_blank"><img src="assets/images/LAUG_logo.jpg" alt=""/></a>
+
+</td>
+
+</tr>
+
+</table>
+
+</ul>
+
+## Chapter Volunteers
+
+Volunteering carries many benefits including meeting great people,
+learning new skills, and above all – fun\! We appreciate the assistance
+that our volunteers provide to ensure our events run smoothly. If you
+would like to help out for few hours with administrative tasks on the
+day of events, please reach out via email or twitter. The following is
+the list of organisation(s) who have provided us volunteers:
+
+<table cellpadding="10" cellspacing="0" border="0">
+
+<tr>
+
+<td>
+
+<a href="http://volunteeringh.org/" target="_blank"><img src="assets/images/Ghana_Volunteer_Program.png" alt=""/></a>
+
+</td>
+
+</tr>
+
+</table>
+
+</ul>
+
+## Stay in Touch
+
+<center>
+
+|                                                             |                                                                                  |                                                                                                                     |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://www.meetup.com/OWASP-Ghana-Chapter/" target="_blank"><img src="assets/images/Meetup-button.png" alt=""/></a>
+
+| <a href="https://twitter.com/OWASPGhana" target="_blank"><img src="assets/images/Follow-us-on-twitter.png" alt=""/></a>
+
+| <a href="http://eepurl.com/dDZKDf" target="_blank"><img src="assets/images/Mailchimp_Logo-Horizontal_Black.png" alt=""/></a>
+
+|
+
+</center>
+
+## Next Meeting/Event(s)
+
+Chapter meetings are held several times a year, typically at a location
+provided by our current facility sponsor.
+
+### February/March 2020 (Exact date TBC and announced)
+
+#### TICKETS:
+
+This event will be free to attend for both members and non-members of
+OWASP and is open to anyone interested in application security and cyber
+security.
+
+Register to attend this and our future events via
+[meetup.com](https://www.meetup.com/OWASP-Ghana-Chapter/) Or via
+[eventbrite.com](https://www.eventbrite.com/e/applicationsoftware-security-september-meetup-by-owasp-ghana-tickets-70303689227)
+
+**Code of Conduct**:
+
+  -   
+    We hope you enjoy our events, we care deeply about inclusivity and
+    diversity so that OWASP is a comfortable and welcoming community for
+    everyone. Please reach out to one of our chapter leaders if you have
+    any feedback or would like to speak to us, we take these matters
+    very seriously. You can find out more about our policies here:
+    [https://www.owasp.org/index.php/Governance/Conference_Policies](https://www.owasp.org/index.php/Governance/Conference_Policies)
+
+## Speaking at OWASP Ghana Chapter Events
+
+#### Call For Speakers
+
+Call For Speakers is open - if you would like to present a 15-45 minute
+talk on Application / Cyber Security at future OWASP Ghana Chapter
+events - please review and agree with the [ OWASP Speaker
+Agreement](https://www.owasp.org/index.php/Speaker_Agreement) and submit your
+talk/presentation via [Google
+Forms](https://docs.google.com/forms/d/e/1FAIpQLSep6HqWEJoN4l_vbytrAEChBGOyge-A61nd_0JvGsl6r5HpZA/viewform)
+
+<center>
+
+|                                                           |
+| --------------------------------------------------------- |
+| <a href="https://docs.google.com/forms/d/e/1FAIpQLSep6HqWEJoN4l_vbytrAEChBGOyge-A61nd_0JvGsl6r5HpZA/viewform" target="_blank"><img src="assets/images/Google_Forms.png" alt=""/></a>
+
+|
+
+</center>
+
+Please note that you can also pair up with a colleague and present a
+joint talk. Please ensure that your talk is objective, stresses open
+source approaches, and avoids references to any commercial offerings of
+your company. We are looking forward to your submissions
+
+Speakers are prefered to use [OWASP Presentation
+Template](https://www.owasp.org/index.php/Category:OWASP_Presentations)
+for submissions.
