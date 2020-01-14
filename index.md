@@ -121,12 +121,12 @@ the list of organisation(s) who have provided us volunteers:
 </td>
 <td>
 
-<a href="https://twitter.com/OWASPGhana" target="_blank"><img src="assets/images/Follow-us-on-twitter.png" alt=""/></a>
+<a href="https://twitter.com/OWASPGhana" target="_blank"><img src="assets/images/175px-Follow-us-on-twitter.png" alt=""/></a>
 
 </td>
 <td>
 
-<a href="http://eepurl.com/dDZKDf" target="_blank"><img src="assets/images/Mailchimp_Logo-Horizontal_Black.png" alt=""/></a>
+<a href="http://eepurl.com/dDZKDf" target="_blank"><img src="assets/images/175px-Mailchimp_Logo-Horizontal_Black.png" alt=""/></a>
 
 </td>
 
