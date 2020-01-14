@@ -10,6 +10,8 @@ tags: ghana
 
 Welcome to the Ghana chapter homepage. The chapter leaders are <a href="mailto://ash.dastmalchi@owasp.org">Ash Dastmalchi</a> and <a href="mailto://hassan.abudu@owasp.org">Hassan Abudu</a>. Follow chapter news on Twitter at [http://twitter.com/OWASPGhana](http://twitter.com/OWASPGhana)
 
+<br/>
+
 ## Participation
 
 OWASP Foundation ([Overview
@@ -28,6 +30,7 @@ agreement](https://www.owasp.org/index.php/Speaker_Agreement) and then contact t
 chapter leader with details of what OWASP PROJECT, independent research
 or related software security topic you would like to present on.
 
+<br/>
 
 ## Sponsorship/Membership
 
@@ -36,7 +39,6 @@ chapter or become a local chapter supporter. Or consider the value of [
 Individual, Corporate, or Academic Supporter
 membership](https://www.owasp.org/index.php/Membership). Ready to become a member?
 <a href="https://www.owasp.org/index.php/Membership" target="_blank"><img src="assets/images/75px-Join_Now_BlueIcon.jpeg" alt=""/></a>
-
 
 ### Meeting Sponsors
 
@@ -55,7 +57,7 @@ us with space for OWASP Ghana chapter meetings:
 
 <td>
 
-<a href="https://www.ug.edu.gh/cs/" target="_blank"><img src="assets/images/[todo]" alt="University_of_Ghana.png"/></a>
+<a href="https://www.ug.edu.gh/cs/" target="_blank"><img src="assets/images/University_of_Ghana.png" alt="University_of_Ghana.png"/></a>
 
 </td>
 
@@ -75,7 +77,8 @@ us with space for OWASP Ghana chapter meetings:
 
 </table>
 
-</ul>
+
+<br/>
 
 ## Chapter Volunteers
 
@@ -86,6 +89,7 @@ would like to help out for few hours with administrative tasks on the
 day of events, please reach out via email or twitter. The following is
 the list of organisation(s) who have provided us volunteers:
 
+<center>
 <table cellpadding="10" cellspacing="0" border="0">
 
 <tr>
@@ -99,24 +103,39 @@ the list of organisation(s) who have provided us volunteers:
 </tr>
 
 </table>
+</center>
 
-</ul>
+<br/>
 
 ## Stay in Touch
 
 <center>
+<table cellpadding="10" cellspacing="0" border="0">
 
-|                                                             |                                                                                  |                                                                                                                     |
-| ----------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://www.meetup.com/OWASP-Ghana-Chapter/" target="_blank"><img src="assets/images/Meetup-button.png" alt=""/></a>
+<tr>
 
-| <a href="https://twitter.com/OWASPGhana" target="_blank"><img src="assets/images/Follow-us-on-twitter.png" alt=""/></a>
+<td>
 
-| <a href="http://eepurl.com/dDZKDf" target="_blank"><img src="assets/images/Mailchimp_Logo-Horizontal_Black.png" alt=""/></a>
+<a href="https://www.meetup.com/OWASP-Ghana-Chapter/" target="_blank"><img src="assets/images/Meetup-button.png" alt=""/></a>
 
-|
+</td>
+<td>
 
+<a href="https://twitter.com/OWASPGhana" target="_blank"><img src="assets/images/Follow-us-on-twitter.png" alt=""/></a>
+
+</td>
+<td>
+
+<a href="http://eepurl.com/dDZKDf" target="_blank"><img src="assets/images/Mailchimp_Logo-Horizontal_Black.png" alt=""/></a>
+
+</td>
+
+</tr>
+
+</table>
 </center>
+
+<br/>
 
 ## Next Meeting/Event(s)
 
@@ -144,6 +163,8 @@ Register to attend this and our future events via
     any feedback or would like to speak to us, we take these matters
     very seriously. You can find out more about our policies here:
     [https://www.owasp.org/index.php/Governance/Conference_Policies](https://www.owasp.org/index.php/Governance/Conference_Policies)
+
+<br/>
 
 ## Speaking at OWASP Ghana Chapter Events
 
