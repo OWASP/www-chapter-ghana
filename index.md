@@ -177,14 +177,21 @@ Agreement](https://www.owasp.org/index.php/Speaker_Agreement) and submit your
 talk/presentation via [Google
 Forms](https://docs.google.com/forms/d/e/1FAIpQLSep6HqWEJoN4l_vbytrAEChBGOyge-A61nd_0JvGsl6r5HpZA/viewform)
 
+
 <center>
+<table cellpadding="10" cellspacing="0" border="0">
 
-|                                                           |
-| --------------------------------------------------------- |
-| <a href="https://docs.google.com/forms/d/e/1FAIpQLSep6HqWEJoN4l_vbytrAEChBGOyge-A61nd_0JvGsl6r5HpZA/viewform" target="_blank"><img src="assets/images/Google_Forms.png" alt=""/></a>
+<tr>
 
-|
+<td>
 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSep6HqWEJoN4l_vbytrAEChBGOyge-A61nd_0JvGsl6r5HpZA/viewform" target="_blank"><img src="assets/images/Google_Forms.png" alt=""/></a>
+
+</td>
+
+</tr>
+
+</table>
 </center>
 
 Please note that you can also pair up with a colleague and present a
