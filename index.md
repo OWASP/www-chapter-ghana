@@ -144,6 +144,8 @@ provided by our current facility sponsor.
 
 ### February/March 2020 (Exact date TBC and announced)
 
+Our next event is at the Ghana Tech Lab, on Sat 14th March 10 AM to 2 PM.
+
 #### TICKETS:
 
 This event will be free to attend for both members and non-members of
