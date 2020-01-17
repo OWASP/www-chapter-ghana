@@ -19,18 +19,18 @@ Accra.
 #### TALKS:
 
   - **WAF Filter 404 Not Found - Blay Safian** ([Slides
-    PDF](assets/slides/Waf-filter-404-not-found.pdf)
+    PDF](assets/slides/Waf-filter-404-not-found.pdf))
 
 <!-- end list -->
 
   - **Lighting Talk on Broken Authentication: What it means, and what
     you can do - Hassan Abudu** ([Slides
-    PDF](assets/slides/OWASP_broken_authentication.pdf)
+    PDF](assets/slides/OWASP_broken_authentication.pdf))
 
 <!-- end list -->
 
   - **Wireless Security and its Discontents - Boyan Lazarevski**
-    ([Slides PDF](assets/slides/OWASP-Sep-2019-BL_(v.2).pdf)
+    ([Slides PDF](assets/slides/OWASP-Sep-2019-BL_(v.2).pdf))
 
 #### SPEAKERS:
 
@@ -83,7 +83,7 @@ Legon, Accra.
 
   - **The State of Phishing Attack Vector - Isaac Kweku Acheampong**
     ([Slides
-    PDF](Media:_Phishing_Presentation\(OWASP_Ghana\).pdf "wikilink"))
+    PDF](assets/slides/Phishing_Presentation(OWASP_Ghana).pdf))
 
 <!-- end list -->
 
@@ -92,18 +92,18 @@ Legon, Accra.
 <!-- end list -->
 
   - **Smart Grid IoT Security - Kwaku Sarpong Manu** ([Slides
-    PDF](Media:_Smart_Grid_IoT_Security_\(OWASP_Ghana\).pdf "wikilink"))
+    PDF](assets/slides/Smart_Grid_IoT_Security_(OWASP_Ghana).pdf))
 
 <!-- end list -->
 
   - **Achilles and the Bee - Fabiola Amedo** ([Slides
-    PDF](Media:_Achilles_and_the_Bee_Presentation\(OWASP_Ghana\).pdf "wikilink"))
+    PDF](assets/slides/Achilles_and_the_Bee_Presentation(OWASP_Ghana).pdf))
 
 <!-- end list -->
 
   - **Anatomy of a DNS Cache Poisoning Attack - Boyan Lazarevski**
     ([Slides
-    PDF](Media:_DNS_Cache_Poisoning\(OWASP_GHANA\).pdf "wikilink"))
+    PDF](assets/slides/DNS_Cache_Poisoning(OWASP_GHANA).pdf))
 
 #### SPEAKERS:
 
@@ -143,7 +143,7 @@ Legon, Accra.
 #### TALKS:
 
   - **OWASP Introduction, Welcome and News - Ash Dastmalchi** ([Slides
-    PDF](Media:_Intro_Presenation_-_Chapter_meeting_March_2019.pdf "wikilink"))
+    PDF](assets/slides/Intro_Presenation_-_Chapter_meeting_March_2019.pdf))
 
 <!-- end list -->
 
@@ -155,7 +155,7 @@ Legon, Accra.
 
   - **Your web server has been hacked now what? by Archzilon
     Eshun-Davies** ([Slides
-    PDF](Media:_OWASP_Your_Web_Server_Has_been_hacked_now_what.pdf "wikilink"))
+    PDF](assets/slides/OWASP_Your_Web_Server_Has_been_hacked_now_what.pdf))
 
 <!-- end list -->
 
@@ -166,7 +166,7 @@ Legon, Accra.
 <!-- end list -->
 
   - **Cross-Site Scripting Attacks (XSS) by Adam Nurudini** ([Slides
-    PDF](Media:_OWASP_XSS_Presentation_-_By_Adam_Nurudini.pdf "wikilink"))
+    PDF](assets/slides/OWASP_XSS_Presentation_-_By_Adam_Nurudini.pdf))
 
 <!-- end list -->
 
@@ -252,7 +252,7 @@ Bypass)
 <!-- end list -->
 
   - ''' "Defensive Coding" - Archzilon Eshun-Davies ''' ([Slides
-    PDF](Media:_Defensive_Coding_Presentation_OWASP_Ghana.pdf "wikilink"))
+    PDF](assets/slides/Defensive_Coding_Presentation_OWASP_Ghana.pdf))
 
 <!-- end list -->
 
@@ -263,7 +263,7 @@ Bypass)
 <!-- end list -->
 
   - *' "Open-Source Intelligence (OSINT)" - Adam Nurudini*' ([Slides
-    PDF](Media:_OWASP_OSINT_Presentation.pdf "wikilink"))
+    PDF](assets/slides/OWASP_OSINT_Presentation.pdf))
 
 <!-- end list -->
 
@@ -274,7 +274,7 @@ Bypass)
 <!-- end list -->
 
   - *' "Wordpress Security" - Nii Ankrah*' ([Slides
-    PDF](Media:_Niiankrah_owasp_nov_18.pdf "wikilink"))
+    PDF](assets/slides/Niiankrah_owasp_nov_18.pdf))
 
 <!-- end list -->
 
@@ -346,7 +346,7 @@ of Communications)
 <!-- end list -->
 
   - *' "Injection Attack" - Hassan Abudu*' ([Slides
-    PDF](Media:_OWASP_injection_attacks.pdf "wikilink"))
+    PDF](assets/slides/OWASP_injection_attacks.pdf))
 
 <!-- end list -->
 
@@ -357,11 +357,11 @@ of Communications)
 
   - *' "Bypassing Security Restrictions , The case of CVE-2018-5955" -
     Adam Nurudini*' ([Slides
-    PDF](Media:_OWASP_Gitstack_Presentation.pdf "wikilink"))
+    PDF](assets/slides/OWASP_Gitstack_Presentation.pdf))
   - *' "Exploiting Server Side Template Injection with TPLMAP" - Divine
-    Tsa*' ([Slides PDF](Media:_Owasp_SSTI_final.pdf "wikilink"))
+    Tsa*' ([Slides PDF](assets/slides/Owasp_SSTI_final.pdf))
   - *' "Insecure Direct Object Reference IDOR(Broken Access Control)" -
-    Eric Biako*' ([Slides PDF](Media:_IDOR.pdf "wikilink"))
+    Eric Biako*' ([Slides PDF](assets/slides/IDOR.pdf))
 
 #### SPEAKERS:
 
