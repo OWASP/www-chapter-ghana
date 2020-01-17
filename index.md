@@ -142,7 +142,7 @@ the list of organisation(s) who have provided us volunteers:
 Chapter meetings are held several times a year, typically at a location
 provided by our current facility sponsor.
 
-### February/March 2020 (Exact date TBC and announced)
+### February/March 2020
 
 Our next event is at the Ghana Tech Lab, on Sat 14th March 10 AM to 2 PM.
 
