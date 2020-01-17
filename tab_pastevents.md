@@ -25,12 +25,12 @@ Accra.
 
   - **Lighting Talk on Broken Authentication: What it means, and what
     you can do - Hassan Abudu** ([Slides
-    PDF](Media:_OWASP_broken_authentication.pdf "wikilink"))
+    PDF](assets/slides/OWASP_broken_authentication.pdf)
 
 <!-- end list -->
 
   - **Wireless Security and its Discontents - Boyan Lazarevski**
-    ([Slides PDF](Media:_OWASP-Sep-2019-BL_\(v.2\).pdf "wikilink"))
+    ([Slides PDF](assets/slides/OWASP-Sep-2019-BL_(v.2).pdf)
 
 #### SPEAKERS:
 
