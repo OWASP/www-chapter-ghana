@@ -19,7 +19,7 @@ Accra.
 #### TALKS:
 
   - **WAF Filter 404 Not Found - Blay Safian** ([Slides
-    PDF](Media:_Waf-filter-404-not-found.pdf "wikilink"))
+    PDF](assets/slides/Waf-filter-404-not-found.pdf)
 
 <!-- end list -->
 
