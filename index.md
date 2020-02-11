@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: OWASP Ghana
 tags: ghana
+region: Africa
 
 ---
 
