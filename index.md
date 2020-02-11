@@ -155,9 +155,8 @@ security.
 
 Register to attend this event at [meetup](https://www.meetup.com/OWASP-Ghana-Chapter/events/268617625/?_xtd=gatlbWFpbF9jbGlja9oAJDljYTdhOGVhLTViNDItNGZjYi1iZTlkLWZkNjA1MGYyMThkYg) or [eventbrite](https://www.eventbrite.com/e/applicationsoftware-security-march-meet-up-by-owasp-ghana-tickets-94063308889?aff=ebdssbdestsearch). 
 
-You can register to learn about our future events via the OWASP Ghana pages at
-[meetup.com](https://www.meetup.com/OWASP-Ghana-Chapter/) or
-[eventbrite.com](https://www.eventbrite.com/e/applicationsoftware-security-september-meetup-by-owasp-ghana-tickets-70303689227)
+You can register to learn about our future events via the OWASP Ghana page at
+[meetup.com](https://www.meetup.com/OWASP-Ghana-Chapter/)
 
 **Code of Conduct**:
 
