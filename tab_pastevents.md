@@ -9,6 +9,61 @@ tags: ghana
 
 ## Past Events
 
+
+
+
+
+
+### Saturday 21st September 2019 10am-2pm
+
+'''Location: '''Ghana Tech Lab, Accra Digital Lab, Ring Road West,
+Accra.
+
+'''Attendance: ''' 55 participants
+
+#### TALKS:
+
+  - **Learn and Practice InfoSec with CTF - Okai Yeboah** ([Slides
+    PDF](assets/slides/owasp-presentation-googling.pdf))
+
+  - **Offensive Googling - Abu Safian Blay** ([Slides
+    PDF](assets/slides/OWASP_broken_authentication.pdf))
+
+  - **Phishing in Depth - Eric Nii Sowah Badger**
+    ([Slides PDF](assets/slides/OWASP_Presentation_FINAL))
+
+  - **Browser Security Headers - Emmanuel JK Gbordzor**
+    ([Slides PDF](assets/slides/HTTP_Header_Security.pdf))
+    
+
+#### SPEAKERS:
+
+**Okai Yeboah[@king_kloy](https://twitter.com/king_kloy))**
+
+  -   
+    I'm Computer Science student at the Kwame Nkrumah University of Science and Technology. I love building, breaking and researching into applications. I spend my free time playing CTF and hanging around IRC channels.
+
+**Abu Safian Blay**
+
+  -   
+    An Electrical and Automation Engineer. Founder of Inveteck Global. Advance Penetration Tester. Defcon  China 2.0 attendee
+
+**Eric Nii Sowah Badger([@ens_nii](https://twitter.com/ens_nii))**
+
+  -   
+    Software Developer / Certified Ethical Hacker. Pen tester and ctf player on Hackthebox 
+
+**Emmanuel JK Gbordzor([@egbordzor](https://twitter.com/egbordzor))**
+
+  -   
+    Information Security Manager by day and Cyber Security student by night.
+
+
+
+
+
+
+
 ### Saturday 21st September 2019 10am-2pm
 
 '''Location: '''Ghana Tech Lab, Accra Digital Lab, Ring Road West,
@@ -21,13 +76,9 @@ Accra.
   - **WAF Filter 404 Not Found - Blay Safian** ([Slides
     PDF](assets/slides/Waf-filter-404-not-found.pdf))
 
-<!-- end list -->
-
   - **Lighting Talk on Broken Authentication: What it means, and what
     you can do - Hassan Abudu** ([Slides
     PDF](assets/slides/OWASP_broken_authentication.pdf))
-
-<!-- end list -->
 
   - **Wireless Security and its Discontents - Boyan Lazarevski**
     ([Slides PDF](assets/slides/OWASP-Sep-2019-BL_(v.2).pdf))
