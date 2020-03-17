@@ -10,16 +10,18 @@ tags: ghana
 ## Past Events
 
 
+<br/>
 
 
 
+### Saturday 14th March 2020 10am-2pm
 
-### Saturday 21st September 2019 10am-2pm
-
-'''Location: '''Ghana Tech Lab, Accra Digital Lab, Ring Road West,
+Location: Ghana Tech Lab, Accra Digital Lab, Ring Road West,
 Accra.
 
-'''Attendance: ''' 55 participants
+Attendance: 62 participants
+
+<br/>
 
 #### TALKS:
 
@@ -34,7 +36,8 @@ Accra.
 
   - **Browser Security Headers - Emmanuel JK Gbordzor**
     ([Slides PDF](assets/slides/HTTP_Header_Security.pdf))
-    
+
+<br/>
 
 #### SPEAKERS:
 
@@ -59,8 +62,8 @@ Accra.
     Information Security Manager by day and Cyber Security student by night.
 
 
-
-
+<br/>
+<br/>
 
 
 
