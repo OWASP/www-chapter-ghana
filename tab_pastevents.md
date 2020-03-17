@@ -26,10 +26,10 @@ Attendance: 62 participants
 #### TALKS:
 
   - **Learn and Practice InfoSec with CTF - Okai Yeboah** ([Slides
-    PDF](assets/slides/owasp-presentation-googling.pdf))
+    PDF](assets/slides/learn-and-practice-info-with-ctf.pdf))
 
   - **Offensive Googling - Abu Safian Blay** ([Slides
-    PDF](assets/slides/OWASP_broken_authentication.pdf))
+    PDF](assets/slides/owasp-presentation-googling.pdf))
 
   - **Phishing in Depth - Eric Nii Sowah Badger**
     ([Slides PDF](assets/slides/OWASP_Presentation_FINAL))
