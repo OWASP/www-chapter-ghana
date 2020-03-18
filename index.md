@@ -143,9 +143,9 @@ the list of organisation(s) who have provided us volunteers:
 Chapter meetings are held several times a year, typically at a location
 provided by our current facility sponsor.
 
-### February/March 2020
+### June/July 2020
 
-Our next event is at the Ghana Tech Lab, on Sat 14th March 10 AM to 2 PM.
+Our next event is planned to take place in June/July 2020, exact date and location to be confirmed. Call for speakers is open, please use the Google form below.
 
 #### TICKETS:
 
