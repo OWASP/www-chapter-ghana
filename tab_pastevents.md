@@ -32,7 +32,7 @@ Attendance: 62 participants
     PDF](assets/slides/owasp-presentation-googling.pdf))
 
   - **Phishing in Depth - Eric Nii Sowah Badger**
-    ([Slides PDF](assets/slides/OWASP_Presentation_FINAL))
+    ([Slides PDF](assets/slides/OWASP_Presentation_FINAL.pdf))
 
   - **Browser Security Headers - Emmanuel JK Gbordzor**
     ([Slides PDF](assets/slides/HTTP_Header_Security.pdf))
@@ -41,7 +41,7 @@ Attendance: 62 participants
 
 #### SPEAKERS:
 
-**Okai Yeboah[@king_kloy](https://twitter.com/king_kloy))**
+**Okai Yeboah[@king_kloy]((https://twitter.com/king_kloy))**
 
   -   
     I'm Computer Science student at the Kwame Nkrumah University of Science and Technology. I love building, breaking and researching into applications. I spend my free time playing CTF and hanging around IRC channels.
