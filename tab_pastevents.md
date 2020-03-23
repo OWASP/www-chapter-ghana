@@ -41,15 +41,15 @@ Attendance: 62 participants
 
 #### SPEAKERS:
 
-**Okai Yeboah[@king_kloy]((https://twitter.com/king_kloy))**
+**Okai Yeboah([@king_kloy](https://twitter.com/king_kloy))**
 
   -   
-    I'm Computer Science student at the Kwame Nkrumah University of Science and Technology. I love building, breaking and researching into applications. I spend my free time playing CTF and hanging around IRC channels.
+    A Computer Science student at the Kwame Nkrumah University of Science and Technology who love building, breaking and researching into applications. He spends most of his free time playing CTF and hanging around IRC channels.
 
 **Abu Safian Blay**
 
   -   
-    An Electrical and Automation Engineer. Founder of Inveteck Global. Advance Penetration Tester. Defcon  China 2.0 attendee
+    An Electrical and Automation Engineer. Founder of Inveteck Global. Advance Penetration Tester. Defcon China 2.0 attendee
 
 **Eric Nii Sowah Badger([@ens_nii](https://twitter.com/ens_nii))**
 
