@@ -32,7 +32,7 @@ Attendance: 62 participants
     PDF](assets/slides/owasp-presentation-googling.pdf))
 
   - **Phishing in Depth - Eric Nii Sowah Badger**
-    ([Slides PDF](assets/slides/OWASP_Presentation_FINAL))
+    ([Slides PDF](assets/slides/OWASP_Presentation_FINAL.pdf))
 
   - **Browser Security Headers - Emmanuel JK Gbordzor**
     ([Slides PDF](assets/slides/HTTP_Header_Security.pdf))
@@ -69,10 +69,12 @@ Attendance: 62 participants
 
 ### Saturday 21st September 2019 10am-2pm
 
-'''Location: '''Ghana Tech Lab, Accra Digital Lab, Ring Road West,
+Location: Ghana Tech Lab, Accra Digital Lab, Ring Road West,
 Accra.
 
-'''Attendance: ''' 55 participants
+Attendance:  55 participants
+
+<br/>
 
 #### TALKS:
 
@@ -85,6 +87,8 @@ Accra.
 
   - **Wireless Security and its Discontents - Boyan Lazarevski**
     ([Slides PDF](assets/slides/OWASP-Sep-2019-BL_(v.2).pdf))
+
+<br/>
 
 #### SPEAKERS:
 
@@ -107,6 +111,8 @@ Lazarevski([@BoyanLazarevski](https://twitter.com/BoyanLazarevski))**
     Hassan is OWASP Ghana chapter co leader, a web developer, a teacher
     and a technologist in general.
 
+<br/>    
+
 #### CTF for Developers:
 
 OWASP Ghana Chapter is pleased to announce the 2019 OWASP Ghana CTF
@@ -126,12 +132,17 @@ Please bring your own LAPTOP and a charger for it to this event
 This CTF environment is kindly provided by [Secure Code
 Warrior](https://securecodewarrior.com/).
 
+<br/>
+<br/>
+
 ### Saturday, 8th June 2019 10am-2pm
 
-'''Location: '''Department of Computer Science, University of Ghana,
+Location: Department of Computer Science, University of Ghana,
 Legon, Accra.
 
-'''Attendance: ''' 65 participants
+Attendance:  65 participants
+
+<br/>
 
 #### TALKS:
 
@@ -158,6 +169,8 @@ Legon, Accra.
   - **Anatomy of a DNS Cache Poisoning Attack - Boyan Lazarevski**
     ([Slides
     PDF](assets/slides/DNS_Cache_Poisoning(OWASP_GHANA).pdf))
+
+<br/>
 
 #### SPEAKERS:
 
@@ -187,12 +200,17 @@ Lazarevski([@BoyanLazarevski](https://twitter.com/BoyanLazarevski))**
   -   
     Boyan is a certified IT Operations Specialist.
 
+<br/>
+<br/>
+
 ### Saturday, 16th March 2019 10am-2pm
 
-'''Location: '''Department of Computer Science, University of Ghana,
+Location: Department of Computer Science, University of Ghana,
 Legon, Accra.
 
-'''Attendance: ''' 85 participants
+Attendance:  85 participants
+
+<br/>
 
 #### TALKS:
 
@@ -243,6 +261,8 @@ Legon, Accra.
     including a live demonstration of the application and how to hack
     it.
 
+<br/>
+
 #### SPEAKERS:
 
 **Adam Nurudini ([@Bra\_\_Qwesi](https://twitter.com/Bra__Qwesi))**
@@ -260,7 +280,7 @@ Legon, Accra.
   -   
     Arch is CISO and CEO of Tactical Intelligence Security(TAISE)
 
-'''Bjoern Kimminich ([@bkimminich](https://twitter.com/bkimminich)) '''
+Bjoern Kimminich ([@bkimminich](https://twitter.com/bkimminich)) 
 
   -   
     OWASP [https://www.owasp.org/index.php/OWASP\_Juice\_Shop\_Project
@@ -271,12 +291,17 @@ Legon, Accra.
     [https://www.owasp.org/index.php/User:Bjoern\_Kimminich clicking
     here](https://www.owasp.org/index.php/User:Bjoern_Kimminich_clicking_here "wikilink")
 
+<br/>
+<br/>
+
 ### Saturday, 24th November 2018 2pm-5pm
 
-'''Location: '''GIMPA School of Technology, Greenhill, Accra. (Legon
+Location: GIMPA School of Technology, Greenhill, Accra. (Legon
 Bypass)
 
-'''Attendance: ''' 120 participants
+Attendance:  120 participants
+
+<br/>
 
 #### TALKS:
 
@@ -305,7 +330,7 @@ Bypass)
 
 <!-- end list -->
 
-  - ''' "Defensive Coding" - Archzilon Eshun-Davies ''' ([Slides
+  -  "Defensive Coding" - Archzilon Eshun-Davies  ([Slides
     PDF](assets/slides/Defensive_Coding_Presentation_OWASP_Ghana.pdf))
 
 <!-- end list -->
@@ -345,6 +370,8 @@ Bypass)
     wordpress instances in a way that safeguards the application from
     common vulnerabilities and attacks.
 
+<br/>    
+
 #### SPEAKERS:
 
 **Ade Yoseman Putra (@johnleedik)**
@@ -379,12 +406,17 @@ Bypass)
     industries, vulnerability assessments, application security audits
     and incident response.
 
+<br/>
+<br/>    
+
 ### Saturday, 18th August 2018 2pm-5pm
 
-'''Location: '''Kofi Annan ICT Centre, Ridge, Accra. (Next to Ministry
+Location: Kofi Annan ICT Centre, Ridge, Accra. (Next to Ministry
 of Communications)
 
-'''Attendance: ''' 70 participants
+Attendance:  70 participants
+
+<br/>
 
 #### TALKS:
 
@@ -416,6 +448,8 @@ of Communications)
     Tsa*' ([Slides PDF](assets/slides/Owasp_SSTI_final.pdf))
   - *' "Insecure Direct Object Reference IDOR(Broken Access Control)" -
     Eric Biako*' ([Slides PDF](assets/slides/IDOR.pdf))
+
+<br/>    
 
 #### SPEAKERS:
 
