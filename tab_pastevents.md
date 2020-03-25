@@ -315,8 +315,8 @@ Attendance:  120 participants
 
 <!-- end list -->
 
-  - *' "OWASP Risk Rating presented by OWASP Risk Rating Management" -
-    Yoseman Putra*' ([Slides
+  - **OWASP Risk Rating presented by OWASP Risk Rating Management -
+    Yoseman Putra** ([Slides
     Online](https://slideplayer.com/slide/12574283/))
 
 <!-- end list -->
@@ -330,7 +330,7 @@ Attendance:  120 participants
 
 <!-- end list -->
 
-  -  "Defensive Coding" - Archzilon Eshun-Davies  ([Slides
+  - **Defensive Coding - Archzilon Eshun-Davies** ([Slides
     PDF](assets/slides/Defensive_Coding_Presentation_OWASP_Ghana.pdf))
 
 <!-- end list -->
@@ -341,7 +341,7 @@ Attendance:  120 participants
 
 <!-- end list -->
 
-  - *' "Open-Source Intelligence (OSINT)" - Adam Nurudini*' ([Slides
+  - **Open-Source Intelligence (OSINT) - Adam Nurudini** ([Slides
     PDF](assets/slides/OWASP_OSINT_Presentation.pdf))
 
 <!-- end list -->
@@ -352,7 +352,7 @@ Attendance:  120 participants
 
 <!-- end list -->
 
-  - *' "Wordpress Security" - Nii Ankrah*' ([Slides
+  - **Wordpress Security - Nii Ankrah** ([Slides
     PDF](assets/slides/Niiankrah_owasp_nov_18.pdf))
 
 <!-- end list -->
@@ -387,7 +387,7 @@ Attendance:  120 participants
   -   
     Arch is CISO and CEO of Tactical Intelligence Security(TAISE)
 
-**Adam Nurudini (@Bra\_\_Qwesi)**
+**Adam Nurudini (@Bra__Qwesi)**
 
   -   
     Adam Nurudini is the Lead Security Researcher @ Netwatch
@@ -431,7 +431,7 @@ Attendance:  70 participants
 
 <!-- end list -->
 
-  - *' "Injection Attack" - Hassan Abudu*' ([Slides
+  - **Injection Attack - Hassan Abudu** ([Slides
     PDF](assets/slides/OWASP_injection_attacks.pdf))
 
 <!-- end list -->
@@ -441,13 +441,13 @@ Attendance:  70 participants
 
 <!-- end list -->
 
-  - *' "Bypassing Security Restrictions , The case of CVE-2018-5955" -
-    Adam Nurudini*' ([Slides
+  - **Bypassing Security Restrictions , The case of CVE-2018-5955" -
+    Adam Nurudini** ([Slides
     PDF](assets/slides/OWASP_Gitstack_Presentation.pdf))
-  - *' "Exploiting Server Side Template Injection with TPLMAP" - Divine
-    Tsa*' ([Slides PDF](assets/slides/Owasp_SSTI_final.pdf))
-  - *' "Insecure Direct Object Reference IDOR(Broken Access Control)" -
-    Eric Biako*' ([Slides PDF](assets/slides/IDOR.pdf))
+  - **Exploiting Server Side Template Injection with TPLMAP - Divine
+    Tsa** ([Slides PDF](assets/slides/Owasp_SSTI_final.pdf))
+  - **Insecure Direct Object Reference IDOR(Broken Access Control)" -
+    Eric Biako** ([Slides PDF](assets/slides/IDOR.pdf))
 
 <br/>    
 
@@ -461,7 +461,7 @@ Attendance:  70 participants
     via weekly sessions various aspects of Web Development. He's also a
     freelance web developer and a part time artist.
 
-**Adam Nurudini (@Bra\_\_Qwesi)**
+**Adam Nurudini (@Bra__Qwesi)**
 
   -   
     Adam Nurudini is a web application penetration tester at Netwatch
