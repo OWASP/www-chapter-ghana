@@ -202,7 +202,3 @@ Please note that you can also pair up with a colleague and present a
 joint talk. Please ensure that your talk is objective, stresses open
 source approaches, and avoids references to any commercial offerings of
 your company. We are looking forward to your submissions
-
-Speakers are prefered to use [OWASP Presentation
-Template](https://www.owasp.org/index.php/Category:OWASP_Presentations)
-for submissions.
