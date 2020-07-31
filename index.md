@@ -4,6 +4,9 @@ layout: col-sidebar
 title: OWASP Ghana
 tags: ghana
 region: Africa
+meetup-group: OWASP-Ghana-Chapter
+country: Ghana
+postal-code: 
 
 ---
 
