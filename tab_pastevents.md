@@ -280,7 +280,7 @@ Attendance:  85 participants
   -   
     Arch is CISO and CEO of Tactical Intelligence Security(TAISE)
 
-Bjoern Kimminich ([@bkimminich](https://twitter.com/bkimminich)) 
+**Bjoern Kimminich ([@bkimminich](https://twitter.com/bkimminich))**
 
   -   
     OWASP [https://www.owasp.org/index.php/OWASP\_Juice\_Shop\_Project

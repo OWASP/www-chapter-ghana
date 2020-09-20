@@ -141,14 +141,36 @@ the list of organisation(s) who have provided us volunteers:
 
 <br/>
 
+
 ## Next Meeting/Event(s)
 
 Chapter meetings are held several times a year, typically at a location
 provided by our current facility sponsor.
 
-### June/July 2020
+{% include chapter_events.html group=page.meetup-group %}
 
-Our next event is planned to take place in June/July 2020, exact date and location to be confirmed. Call for speakers is open, please use the Google form below.
+<script type='text/javascript'>
+  $(function(){
+    $(".timeclass").hover(function() {
+      utc_str = $(this).text();
+      ndx = utc_str.indexOf(':');
+      st_hour_str = utc_str.substring(0, ndx);
+      st_min_str = utc_str.substring(ndx + 1, ndx + 3);
+      utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(st_hour_str), parseInt(st_min_str), 0);
+      start_dt = utc_dt.setZone(luxon.DateTime.local().zoneName);
+
+      ndx = utc_str.lastIndexOf(':');
+      end_hour_str = utc_str.substring(ndx - 2, ndx - 1);
+      end_min_str = utc_str.substring(ndx + 1, ndx + 3);
+      utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(end_hour_str), parseInt(end_min_str), 0);
+      end_dt = utc_dt.setZone(luxon.DateTime.local().zoneName);
+      popstr = start_dt.toLocaleString(luxon.DateTime.TIME_WITH_SECONDS) + ' to ' + end_dt.toLocaleString(luxon.DateTime.TIME_WITH_SHORT_OFFSET);
+      $(this).prop('title', popstr);
+    });
+  });
+
+  
+</script>
 
 #### TICKETS:
 
