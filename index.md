@@ -24,7 +24,7 @@ is a professional association of [ global
 members](https://owasp.org/membership/) and is open to anyone interested in
 learning more about software security. Local chapters are run
 independently and guided by the
-[Chapter\_Leader\_Handbook](https://owasp.org/www-policy/operational/chapter-handbook-existing). As a [
+[Chapter Policy](https://owasp.org/www-policy/). As a [
 501(c)(3)](https://owasp.org/about/) non-profit professional association
 your support and sponsorship of any meeting venue and/or refreshments is
 tax-deductible. Financial contributions should only be made online using
@@ -44,7 +44,7 @@ Individual, Corporate, or Academic Supporter
 membership](https://owasp.org/membership/). Ready to become a member?
 <a href="https://owasp.org/membership/" target="_blank"><img src="assets/images/75px-Join_Now_BlueIcon.jpeg" alt=""/></a>
 
-### Meeting Sponsors
+### Meeting Supporters
 
 The following is the list of organisations who have generously provided
 us with space for OWASP Ghana chapter meetings:  
