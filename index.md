@@ -36,7 +36,7 @@ or related software security topic you would like to present on.
 
 <br/>
 
-## Sponsorship/Membership
+## Supporter/Membership
 
 <a href="https://owasp.org/donate/" target="_blank"><img src="assets/images/Btn_donate_SM.gif" alt=""/></a> to this
 chapter or become a local chapter supporter. Or consider the value of [
