@@ -204,8 +204,7 @@ talk on Application / Cyber Security at future OWASP Ghana Chapter
 events - please review and agree with the [ OWASP Speaker
 Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and submit your
 talk/presentation via [Google
-Forms](https://docs.google.com/forms/d/e/1FAIpQLSep6HqWEJoN4l_vbytrAEChBGOyge-A61nd_0JvGsl6r5HpZA/viewform)
-
+Forms]
 
 <center>
 <table cellpadding="10" cellspacing="0" border="0">
