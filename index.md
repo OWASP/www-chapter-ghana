@@ -178,8 +178,6 @@ This event will be free to attend for both members and non-members of
 OWASP and is open to anyone interested in application security and cyber
 security.
 
-Register to attend this event at [meetup](https://www.meetup.com/OWASP-Ghana-Chapter/events/268617625/?_xtd=gatlbWFpbF9jbGlja9oAJDljYTdhOGVhLTViNDItNGZjYi1iZTlkLWZkNjA1MGYyMThkYg) or [eventbrite](https://www.eventbrite.com/e/applicationsoftware-security-march-meet-up-by-owasp-ghana-tickets-94063308889?aff=ebdssbdestsearch). 
-
 You can register to learn about our future events via the OWASP Ghana page at
 [meetup.com](https://www.meetup.com/OWASP-Ghana-Chapter/)
 
