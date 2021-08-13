@@ -201,26 +201,10 @@ You can register to learn about our future events via the OWASP Ghana page at
 
 Call For Speakers is open - if you would like to present a 15-45 minute
 talk on Application / Cyber Security at future OWASP Ghana Chapter
-events - please review and agree with the [ OWASP Speaker
+events - please review and agree with the [OWASP Speaker
 Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and submit your
-talk/presentation via [Google
-Forms]
+talk/presentation [Ghana Leaders](mailto:ghana-leaders@owasp.org)
 
-<center>
-<table cellpadding="10" cellspacing="0" border="0">
-
-<tr>
-
-<td>
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSep6HqWEJoN4l_vbytrAEChBGOyge-A61nd_0JvGsl6r5HpZA/viewform" target="_blank"><img src="assets/images/Google_Forms.png" alt=""/></a>
-
-</td>
-
-</tr>
-
-</table>
-</center>
 
 Please note that you can also pair up with a colleague and present a
 joint talk. Please ensure that your talk is objective, stresses open
