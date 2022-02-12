@@ -149,7 +149,7 @@ provided by our current facility sponsor.
 
 Our next meeting will be online and it will take place on Saturday, February 26, 2022 from 11 AM to 1 PM Greenwich Mean Time (GMT).
 
-Further meeting details can be found on Meetup page. Please visit [https://www.meetup.com/OWASP-Ghana-Chapter/] to view our upcoming and past meetings.
+Further meeting details can be found on Meetup page. Please visit [https://www.meetup.com/OWASP-Ghana-Chapter/](https://www.meetup.com/OWASP-Ghana-Chapter/) to view our upcoming and past meetings.
 
 {% include chapter_events.html group=page.meetup-group %}
 
