@@ -14,6 +14,39 @@ tags: ghana
 
 
 
+### Saturday February 26, 2022 11am-1pm
+
+Location: Online
+
+Attendance: 21 participants
+
+<br/>
+
+#### TALKS:
+
+  - **Request Forgery on the Web - SSRF, CSRF and Clickjacking - Jim Manico** ([Youtube link](https://www.youtube.com/watch?v=Cih5cDJQxzc))
+
+  - **Offensive Googling - Abu Safian Blay** ([Slides PDF](assets/slides/Pwning_a_shell_via_MSSQL_DBMS.pdf))
+
+<br/>
+
+#### SPEAKERS:
+
+**Jim Manico([@manicode](https://twitter.com/manicode))**
+
+  -   
+    Manicode Security (Founder, CEO) and Application Security Educator
+
+**Abu Safian Blay**
+
+  -   
+    An Electrical and Automation Engineer. Founder of Inveteck Global. Advance Penetration Tester. Defcon China 2.0 attendee
+
+<br/>
+<br/>
+
+
+
 ### Saturday 14th March 2020 10am-2pm
 
 Location: Ghana Tech Lab, Accra Digital Lab, Ring Road West,
