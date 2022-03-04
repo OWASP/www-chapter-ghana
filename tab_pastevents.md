@@ -26,7 +26,7 @@ Attendance: 21 participants
 
   - **Request Forgery on the Web - SSRF, CSRF and Clickjacking - Jim Manico** ([Youtube link](https://www.youtube.com/watch?v=Cih5cDJQxzc))
 
-  - **Offensive Googling - Abu Safian Blay** ([Slides PDF](assets/slides/Pwning_a_shell_via_MSSQL_DBMS.pdf))
+  - **Pwning a shell via MSSQL DBMS - Abu Safian Blay** ([Slides PDF](assets/slides/Pwning_a_shell_via_MSSQL_DBMS.pdf))
 
 <br/>
 
@@ -40,7 +40,7 @@ Attendance: 21 participants
 **Abu Safian Blay**
 
   -   
-    An Electrical and Automation Engineer. Founder of Inveteck Global. Advance Penetration Tester. Defcon China 2.0 attendee
+    BLAY ABU SAFIAN is an Engineer with a deep background in Offensive security, Security Research, Exploit Development, Advanced Penetration Testing and Bug hunting. He is an International Trainer, Speaker and the Founder of Inveteck Global based in GHANA. He is also the formal CTF Team Lead for Black Cybersecurity Association (USA).
 
 <br/>
 <br/>
