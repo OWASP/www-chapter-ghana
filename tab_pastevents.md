@@ -9,7 +9,33 @@ tags: ghana
 
 ## Past Events
 
+<br/>
 
+### Saturday May 28, 2022 11am-1pm
+
+Location: Online
+
+Attendance: 47 participants
+
+<br/>
+
+#### TALKS:
+
+  - **Opportunities on OWASP Top 10 - Kwaku Sarpong Manu (kusama) (Slides PDF)** ([Slides PDF](assets/slides/Opportunities_on_OWASP_Top_10.pdf))
+
+  - **Finding 0days in Enterprise Web Applications - Shubham Shah** ([Youtube link](https://www.youtube.com/watch?v=1UWtIgDA3HA))
+
+<br/>
+
+#### SPEAKERS:
+
+**Kwaku Sarpong**
+
+  - Kwaku Sarpong is a Computer Engineer with a knack for systems design and testing. Some personal interests include data analysis, software development and IoT. When not actively researching Kwaku likes to beach, listen to music and read
+
+**Shubham Shah([https://shubs.io/](https://shubs.io/))**
+
+<br/>
 <br/>
 
 
