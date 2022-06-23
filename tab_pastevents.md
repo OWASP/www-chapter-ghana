@@ -33,7 +33,7 @@ Attendance: 47 participants
 
   - Kwaku Sarpong is a Computer Engineer with a knack for systems design and testing. Some personal interests include data analysis, software development and IoT. When not actively researching Kwaku likes to beach, listen to music and read
 
-  - **Shubham Shah ([https://shubs.io/](https://shubs.io/))**
+**Shubham Shah ([https://shubs.io/](https://shubs.io/))**
 
 <br/>
 <br/>
